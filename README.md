@@ -23,4 +23,13 @@
   </div>
   
 ### Sobre mim
-Sou programador Delphi, backend, frontend e mobile.
+Sou programador Delphi e Javascript - Full Stack.
+ 
+Atualmente trabalho na Citel Software como programador Delphi e utilizo a versão Seattle. Integro a equipe de faturamento, onde realizo alterações e novas implementações no sistema.
+Trabalho profissionalmente com o Delphi desde 2010, ja tendo utilizado as versões 5, 6, 7 e RAD Studio. (VLC e FMX)
+ 
+Trabalho também como programador freelancer em Node.js, Javascript, TypeScript, NextJS, React Native, React.js, implementando backend e frontend web e mobile.
+ 
+Tenho domínio de instruções SQL e conhecimento em bancos SQL e noSql. Ja tendo trabalhado com MySQL, PostgreSQL, SQL Server, Firebird e SQLite.
+ 
+Tenho domínio de versionamento de código, utilizando GIT e SVN, documentação de software e atendimento a clientes e empresas aplicando metodologias ágeis e utilizando ferramentas de controle Jira, Trello e Azure DevOps.
