@@ -23,13 +23,16 @@
   </div>
   
 ### Sobre mim
-Sou programador Delphi e Javascript - Full Stack.
- 
-Atualmente trabalho na Citel Software como programador Delphi e utilizo a versão Seattle. Integro a equipe de faturamento, onde realizo alterações e novas implementações no sistema.
-Trabalho profissionalmente com o Delphi desde 2010, ja tendo utilizado as versões 5, 6, 7 e RAD Studio. (VLC e FMX)
- 
-Trabalho também como programador freelancer em Node.js, Javascript, TypeScript, NextJS, React Native, React.js, implementando backend e frontend web e mobile.
- 
-Tenho domínio de instruções SQL e conhecimento em bancos SQL e noSql. Ja tendo trabalhado com MySQL, PostgreSQL, SQL Server, Firebird e SQLite.
- 
-Tenho domínio de versionamento de código, utilizando GIT e SVN, documentação de software e atendimento a clientes e empresas aplicando metodologias ágeis e utilizando ferramentas de controle Jira, Trello e Azure DevOps.
+Sou programador FullStack apaixonado por tecnologia e por resolver desafios por meio da programação, com experiência sólida em JavaScript, Delphi e C#.
+
+Minha especialização está voltada para o ecossistema JavaScript, abrangendo NodeJS, ReactJS e React Native. Tenho experiência diversificada em desenvolvimento para front-end, back-end, desktop e mobile, sempre com o objetivo de entregar experiências excepcionais para o usuário, independentemente da plataforma.
+
+Com mais de 10 anos de experiência profissional em Delphi, trabalhei com diversas versões, como 5, 6, 7 e RAD Studio (VCL e FMX), desenvolvendo soluções robustas e personalizadas para diferentes cenários.
+
+Valorizo profundamente o trabalho em equipe, pois acredito que a combinação de perspectivas e habilidades distintas é essencial para alcançar resultados superiores. Sou entusiasta do aprendizado colaborativo, sempre disposto a compartilhar conhecimento e a absorver novas ideias com os colegas.
+
+Estou comprometido com o aprimoramento contínuo, participando regularmente de treinamentos e cursos para acompanhar as rápidas transformações do setor de tecnologia.
+
+Possuo sólido conhecimento em instruções SQL e bancos de dados relacionais e não relacionais, como MySQL, PostgreSQL, SQL Server, Firebird e SQLite.
+
+Além disso, tenho domínio em versionamento de código utilizando GIT e SVN, bem como experiência em documentação de software e aplicação de metodologias ágeis.
