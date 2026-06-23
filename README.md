@@ -1,45 +1,69 @@
-## Oiii! Eu sou o Felipe Angelini
- <div>
-  <a href="https://github.com/felipeangelini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeangelini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeangelini&layout=compact&langs_count=7&theme=dracula"/>
+<h2 align="left">Oiii! Eu sou o Felipe Angelini 👋 — Desenvolvedor FullStack apaixonado por tecnologia</h2>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://github-readme-stats-felipeangelinis-projects.vercel.app/api?username=felipeangelini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=felipeangelini&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-felipeangelinis-projects.vercel.app/api/top-langs/?username=felipeangelini&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-  
-<div style="display: inline_block"><br>
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-<img align="center" alt="postgresql" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-<img align="center" alt="ios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
-<img align="center" alt="graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-          
-          
-  
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="mssql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="30" alt="android logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="30" alt="ios logo" />
 </div>
-  
-  ##
- <div>
-  <a href="https://www.linkedin.com/in/felipe-angelini-4a8b92a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:felipeoangelini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
-  
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipe-angelini-4a8b92a6" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:felipeoangelini@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+###
+
 ### Sobre mim
-Sou programador FullStack apaixonado por tecnologia e por resolver desafios por meio da programação, com experiência sólida em JavaScript, Delphi e C#.
 
-Minha especialização está voltada para o ecossistema JavaScript, abrangendo NodeJS, ReactJS e React Native. Tenho experiência diversificada em desenvolvimento para front-end, back-end, desktop e mobile, sempre com o objetivo de entregar experiências excepcionais para o usuário, independentemente da plataforma.
+Sou apaixonado pela capacidade que o código tem de transformar desafios em soluções reais. Em mais de 10 anos de jornada, aprendi que as tecnologias mudam, mas a lógica sólida e a boa arquitetura são eternas.
 
-Com mais de 10 anos de experiência profissional em Delphi, trabalhei com diversas versões, como 5, 6, 7 e RAD Studio (VCL e FMX), desenvolvendo soluções robustas e personalizadas para diferentes cenários.
+Minha especialização está no ecossistema TypeScript e JavaScript — React, Node.js e React Native — com atuação em front-end, back-end, desktop e mobile. Aplico rigorosamente princípios SOLID, Clean Code e Design de Sistemas, com experiência em microsserviços, comunicação assíncrona e arquiteturas orientadas a eventos.
 
-Valorizo profundamente o trabalho em equipe, pois acredito que a combinação de perspectivas e habilidades distintas é essencial para alcançar resultados superiores. Sou entusiasta do aprendizado colaborativo, sempre disposto a compartilhar conhecimento e a absorver novas ideias com os colegas.
+Atualmente aprofundando estudos em AI Engineering, aplicando Inteligência Artificial no dia a dia para otimizar fluxos de desenvolvimento, apoiar decisões de arquitetura e implementar automações inteligentes com foco em produção.
 
-Estou comprometido com o aprimoramento contínuo, participando regularmente de treinamentos e cursos para acompanhar as rápidas transformações do setor de tecnologia.
+Tenho background sólido em bancos de dados relacionais e não relacionais — PostgreSQL, MySQL, SQL Server, Firebird e SQLite — e mais de 10 anos com Delphi (VCL, FMX, DataSnap), o que me deu uma base forte em sistemas desktop e arquitetura legada.
 
-Possuo sólido conhecimento em instruções SQL e bancos de dados relacionais e não relacionais, como MySQL, PostgreSQL, SQL Server, Firebird e SQLite.
+Valorizo o trabalho em equipe e o aprendizado colaborativo, sempre comprometido com melhoria contínua e entrega de experiências excepcionais para o usuário.
 
-Além disso, tenho domínio em versionamento de código utilizando GIT e SVN, bem como experiência em documentação de software e aplicação de metodologias ágeis.
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/felipeangelini/felipeangelini/snake-output/snake.svg" alt="Snake animation" />
