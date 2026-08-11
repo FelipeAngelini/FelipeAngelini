@@ -22,19 +22,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="mssql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="30" alt="android logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="30" alt="ios logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="30" alt="delphi logo" />
 </div>
 
 ###
@@ -52,7 +46,7 @@
 
 ### Sobre mim
 
-Sou apaixonado pela capacidade que o código tem de transformar desafios em soluções reais. Em mais de 10 anos de jornada, aprendi que as tecnologias mudam, mas a lógica sólida e a boa arquitetura são eternas.
+Transformo requisitos de negócio em produtos web e mobile que rodam em produção — não em protótipo. Mais de 10 anos entregando software que sobrevive ao dia a dia real: de sistemas desktop críticos em Delphi a apps React Native offline-first usados por garçons e caixas em ambiente de rede instável.
 
 Minha especialização está no ecossistema TypeScript e JavaScript — React, Node.js e React Native — com atuação em front-end, back-end, desktop e mobile. Aplico rigorosamente princípios SOLID, Clean Code e Design de Sistemas, com experiência em microsserviços, comunicação assíncrona e arquiteturas orientadas a eventos.
 
